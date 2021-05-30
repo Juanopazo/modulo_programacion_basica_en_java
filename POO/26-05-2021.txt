@@ -1,0 +1,22 @@
+
+public class jugador { String nombre;
+String apodo;
+ int edad;
+ float altura;
+ String posicion;
+ int goles;
+
+}
+
+public class sandwich{
+ string nombre;
+int precio;
+string proteina;
+string vegetal;
+int tamaño;
+
+
+public class lordofRings
+string raza;
+string
+}
